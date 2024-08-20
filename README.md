@@ -43,8 +43,8 @@ the sum is: x
 # Grading Scale
 code compiles: 30%
 
-3 functions implemented: 40%
+3 functions implemented: 30%
 
-code produces expected output: 30%
+code produces expected output: 40%
 
 total: 100%
